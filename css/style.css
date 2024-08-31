@@ -521,6 +521,7 @@ section {
     .footer p {
         text-align: center;
         margin-top: 2rem;
+        font-size: 50%;
     }
 }
 
